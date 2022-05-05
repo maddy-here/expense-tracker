@@ -1,0 +1,6 @@
+.expense-item__form {
+  background-color: hsl(300, 100%, 15%);
+  width: 70%;
+  padding: 20px;
+  margin-bottom: 100px;
+}
